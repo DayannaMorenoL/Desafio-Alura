@@ -98,7 +98,8 @@ main {
 }
 
 footer { 
-    text-align: center, purple;
+    text-align: center;
+    color: purple;
     padding: 30px;
     font-style: oblique;
 
